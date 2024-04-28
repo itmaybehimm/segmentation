@@ -3,7 +3,3 @@ mejan/
 all*/
 .DS_Store
 IMG*
-*.h5
-*.keras
-current.keras
-gedu.h5
